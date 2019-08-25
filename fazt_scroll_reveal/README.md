@@ -5,7 +5,7 @@
 #### Indice
 - [Scroll Reveal](https://youtu.be/X8OysJsdYxA?t=492)
   - crea animación
-- []()
+- [Instalación fonts.google.com](https://youtu.be/X8OysJsdYxA?t=552)
 - []()
 - []()
 - []()
